@@ -1,8 +1,8 @@
 # MiniCrawler
 
 ## Premise
-I have realized that my knowledge of Elixir is very shallow. I have used Elixir and Phoenix in the past months but I was in charge only for simple maintenance tasks of a side project. This is the first time that I’ve tried to build something from scratch with this language. I spent all my free time studying the official docs trying to accomplish the challenge.
-I’m aware that my current knowledge of the language is not sufficient to cover the role I applied for, but I was glad to learn something about Elixir and FP!
+I have realized that my knowledge of Elixir is very shallow. I have used Elixir and Phoenix in the past months but I was in charge only for simple maintenance tasks of a side project. This is the first time that I’ve tried to build something from scratch with this language. I spent all my free time revising and referencing the official docs trying to accomplish the challenge.
+I’m aware that my current knowledge of the language is not sufficient to cover the role I applied for, but I was glad to learn something about Elixir and FP. In future I would like to implement Elixir in my own personal projects to improve my understanding of the language.
 
 
 ## IDEA
