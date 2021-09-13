@@ -1,19 +1,14 @@
 # MiniCrawler
-
-## Premise
-I have realized that my knowledge of Elixir is very shallow. I have used Elixir and Phoenix in the past months but I was in charge only for simple maintenance tasks of a side project. This is the first time that I’ve tried to build something from scratch with this language. I spent all my free time revising and referencing the official docs trying to accomplish the challenge.
-I’m aware that my current knowledge of the language is not sufficient to cover the role I applied for, but I was glad to learn something about Elixir and FP. In future I would like to implement Elixir in my own personal projects to improve my understanding of the language.
+This script explores recursively all internal links of a given domain and retrives useful info (assets' url, inbound/outbound links between pages, etc...) for each of them.
 
 
 ## IDEA
 ![logic](https://i.ibb.co/0QWN3bC/Untitled-document-3.jpg)
-script logic
+Script logic
 
 
 ![Graph](https://i.ibb.co/BtXKPnX/Untitled-document-1.jpg)
-A picture that I drew to visualize the problem
-
-
+A picture that I drew to visualize the problem before I started to code.
 
 ## Usage
 
@@ -26,4 +21,3 @@ iex(1)> MiniCrawler.start
 - https://sedna.com - depth 4
 - http://sinatrarb.com - depth 5 (best example)
 - https://www.emojicode.org 
-
